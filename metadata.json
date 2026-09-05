@@ -1,0 +1,6 @@
+{
+  "name": "NVIDIA AI & RTX Graphics",
+  "description": "Next-generation NVIDIA hero section with interactive GPU comparison, performance mode toggles, AI workload benchmark tools, and driver status.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
